@@ -15,7 +15,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at:https://principess01.github.io/astronautas/
 
-Design: ![alt text](./insparation-design.png)
+Design: ![alt text](./original-design.png)
 
 ## 🎯 Project features/goals
 
