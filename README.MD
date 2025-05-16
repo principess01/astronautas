@@ -25,11 +25,18 @@ Design: ![alt text](./insparation-design.png)
 -   FontAwesome icons
 -   display: flex
 -   hover state
-
-## 🧰 Getting Started
-
-### 💻 Prerequisites
-
+-   bash commands:
+ - `touch index.html` (sukuria failą)
+ - `touch failas1.txt failas2.txt` 
+ - `mkdir img` (sukuria folderi/direktorija)
+ - `mkdir folder1 folder2`
+ - `ls -al` (stulpeliu atvaizduoja direktorijoje esantį turinį)
+- git commands:
+ - `git init`
+ - `git add .`
+ - `git commit -m "Message text"`
+ - `git push`
+ls
 Node.js - _download and install_
 
 ```
