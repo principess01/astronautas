@@ -24,6 +24,7 @@ Design: ![alt text](./original-design.png)
 -   CSS file
 -   FontAwesome icons
 -   display: flex
+- favicon
 -   hover state
 -   bash commands:
  - `touch index.html` (sukuria failą)
