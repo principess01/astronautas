@@ -31,6 +31,7 @@ Design: ![alt text](./original-design.png)
  - `mkdir img` (sukuria folderi/direktorija)
  - `mkdir folder1 folder2`
  - `ls -al` (stulpeliu atvaizduoja direktorijoje esantį turinį)
+ - `rm failo.pavadinimas`
 - git commands:
  - `git init`
  - `git add .`
